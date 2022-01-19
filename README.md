@@ -1,4 +1,4 @@
-#About Me:
+# About Me:
 
 - :briefcase:	 I’m currently working at **Penn Interactive.**
 - :computer:	 I’ve completed **Rutgers Data Science Bootcamp**
